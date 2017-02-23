@@ -20,7 +20,7 @@ Execute the MSI file, and go through the installation. It should install a coupl
 
 From the *Start* menu, choose **All Programs > PuTTY > PuTTYGen**.
 
-Under **Type of key to generate**, select **SSH-2 RSA**.
+Under **Type of key to generate**, select **RSA** or **SSH-2 RSA**. The SSH-1 protocol only supports RSA keys, whilst the SSH-2 key supports more than one (RSA, DSA, ECDSA). SSH-2 also has a stronger cryptographic integrity check and allows for password change.
 
 ### 5.) Load your Key Pair
 
