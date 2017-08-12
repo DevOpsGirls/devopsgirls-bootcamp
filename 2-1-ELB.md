@@ -134,7 +134,7 @@ It should look like this:
 ![Image][2-1-11-wpsql]
 
 
-Make sure you replace 'firstname.lastname' with your first name and last name. For example, 'Banana Smith' would have the database prefix of 'banana.smith'.
+Make sure you replace 'firstname_' with your first name. For example, 'Banana Smith' would have the database prefix of `banana`.
 
 ### 14.) Finish the installation
 
